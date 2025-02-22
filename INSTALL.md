@@ -168,7 +168,7 @@ This will instruct jekyll to deploy the website under `$HOME/repo/publishing-sou
 
 **Note:** Jekyll will clean `$HOME/repo/publishing-source` before building!
 
-The quote below is taken directly from the [jekyll configuration docs](https://jekyllrb.com/docs/configuration/options/):
+The quote below is taken directly from  the [jekyll configuration docs](https://jekyllrb.com/docs/configuration/options/):
 
 > Destination folders are cleaned on site builds
 >

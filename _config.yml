@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Raghavendra Dheeraj
-middle_name: 
+middle_name:
 last_name: Peddinti
 email: rdheerajp@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: untilted # blog_name will be displayed in your blog page
-blog_description: untilted thoughts, titled and tagged. 
+blog_description: untilted thoughts, titled and tagged.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
