@@ -6,12 +6,11 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Raghavendra Dheeraj
 middle_name:
 last_name: Peddinti
-email: rdheerajp@gmail.com
+email: rdheerajp.seek@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   welcome to my corner of the interwebs.
 footer_text: >
-  <p>Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.</p>
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  
 keywords: raghavendra dheeraj peddinti, tensor networks, applied math, philosophy # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -49,8 +48,8 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: false
 search_enabled: false
-socials_in_search: true
-bib_search: true
+socials_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -112,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  I have the chronic disease of clearing my inbox with no unreads. You know where to find me now.
+  I have a chronic condition of keeping my inbox clear. You now know where to find me.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -132,8 +131,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: untilted # blog_name will be displayed in your blog page
-blog_description: untilted thoughts, titled and tagged.
+blog_name: tilted # blog_name will be displayed in your blog page
+blog_description: tilted thoughts, titled and tagged.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -142,7 +141,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 2
 
 # # Giscus comments (RECOMMENDED)
@@ -312,10 +311,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Peddinti]
+  first_name: [Raghavendra Dheeraj]
 
-  style: apa
+  style: nature
   locale: en
 
   source: /_bibliography/
@@ -373,7 +372,7 @@ filtered_bibtex_keywords:
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3 # leave blank to always show all authors
-more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
+more_authors_animation_delay: 5 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
 enable_publication_thumbnails: true

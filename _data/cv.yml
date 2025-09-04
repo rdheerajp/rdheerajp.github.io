@@ -15,8 +15,8 @@
       institution: ETH Zurich, Switzerland
       year: 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Explored the intersection of applied math, computer science and physics.
+        - Thesis: .
         - title: Description 3.
           contents:
             - Sub-description 1.
@@ -31,9 +31,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Researcher
+      institution: Quantum Research Center, TII Abu Dhabi
+      year: 2025 - 
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
     - title: Associate Researcher
       institution: Quantum Research Center, TII Abu Dhabi
-      year: 2023 -
+      year: 2023 - 2025
       description:
         - Description 1.
         - Description 2.
