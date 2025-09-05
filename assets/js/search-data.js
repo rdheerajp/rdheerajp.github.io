@@ -63,8 +63,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/acts_of_god/";
-            },},{id: "news-hello-world-i-was-holding-myself-back-but-here-we-are-sparkles",
-          title: 'hello, world! I was holding myself back but here we are. :sparkles:',
+            },},{id: "news-hello-world-i-was-holding-myself-back-but-here-we-go-sparkles",
+          title: 'hello, world! I was holding myself back but here we go. :sparkles:',
+          description: "",
+          section: "News",},{id: "news-it-took-me-an-year-to-get-this-rolling-going-public-today",
+          title: 'It took me an year to get this rolling. Going public today.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
