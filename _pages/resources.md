@@ -2,7 +2,7 @@
 layout: page
 permalink: /resources/
 title: resources
-description: A list of my favorite resources compiled over years of browsing the internet.
+description: A list of my favorite resources compiled over several years of browsing the internet.
 nav: true
 nav_order: 6
 ---
