@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: welcome to my corner of the interwebs. <p>Life is a line, not a line segment.</p>
+subtitle: welcome to my corner of the interwebs.
 
 profile:
   align: right
@@ -25,4 +25,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here.
+### Hello! | Namaste! | Gruezi! | Salaam!
+
+I am Raghavendra Dheeraj, and I struggle with introductions.
+
+I am a researcher studying the fields of computational science. 
+
+More than an academic website, this is my personal page where I will be sharing not only my work but also some of my thoughts. 
+
+
+
+
+
+<p>Life is a line, not a line segment.</p>

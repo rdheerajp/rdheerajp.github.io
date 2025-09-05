@@ -7,6 +7,9 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Science-adjacent
 
-Organize your courses by years, topics, or universities, however you like!
+- [Science-backed colors for science](https://www.fabiocrameri.ch/colourmaps/)
+    - Using the right colors for your scientific plots.
+- [Write like a mathematician](https://sites.math.washington.edu/~lind/Resources/Halmos.pdf)
+    - How Paul R. Halmos writes mathematical papers?
