@@ -7,4 +7,4 @@ nav: false
 collection: books
 ---
 
-### books that won over my laziness.
+### good covers, better books.
