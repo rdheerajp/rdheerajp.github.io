@@ -1,6 +1,3 @@
----
-permalink: /assets/js/giscus-setup.js
----
 
 function determineGiscusTheme() {
   {% if site.enable_darkmode %}
