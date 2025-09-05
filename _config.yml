@@ -47,6 +47,7 @@ navbar_fixed: true
 footer_fixed: false
 search_enabled: false
 socials_in_search: false
+posts_in_search: false
 bib_search: false
 
 # Dimensions
@@ -193,20 +194,8 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /:collection/:title/
   projects:
     output: true
-    permalink: /:collection/:title/
-
-announcements:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
