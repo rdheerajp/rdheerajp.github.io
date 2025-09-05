@@ -13,7 +13,7 @@ finished: 2024-09-15
 released: 2024
 stars: 5
 goodreads_review: 
-status: Finished
+status: finished
 ---
 
 A Genius (Cat III) moves in and out of the frame, stumbles across the stage of life while fighting with hallucinations.
