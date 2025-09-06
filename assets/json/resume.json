@@ -115,8 +115,8 @@
   "skills": [
     {
       "name": "Programming",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "level": "",
+      "icon": "fa-solid fa-code",
       "keywords": [
         "Scientific Computing/HPC",
         "Quantum Computing: Qiskit/Qibo",
@@ -125,8 +125,8 @@
     },
     {
       "name": "Miscellaneous",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "level": "",
+      "icon": "fa-solid fa-palette",
       "keywords": [
         "Graphic Design",
         "Illustrator/Photoshop",
@@ -137,7 +137,7 @@
   "languages": [
     {
       "language": "Telugu",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
@@ -154,15 +154,23 @@
   "interests": [
     {
       "name": "Sports",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-futbol",
       "keywords": [
         "Basketball: Spurs",
         "Football: Spurs"
       ]
     },
     {
+      "name": "Music",
+      "icon": "fa-solid fa-music",
+      "keywords": [
+        "Indian Classical",
+        "Hip-hop"
+      ]
+    },
+    {
       "name": "Philosophy",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-cubes-stacked",
       "keywords": [
         "Absurdism",
         "Vedic Philosophy"

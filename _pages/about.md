@@ -25,13 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### Hello!
+**Hello!**
 
-Call me Raghavendra Dheeraj or call me curious! 
+Call me Raghavendra Dheeraj, or call me curious! 
 
-I am a engineer-turned-researcher, working in the intersection of mathematics, physics, and computer science. My primary work involves developing quantum-inspired algorithms.
+I am an engineer-turned-researcher, working in the intersection of mathematics, physics, and computer science.
+My primary focus is on developing quantum-inspired algorithms.
 
-Here, you will find a blend of my work and my thoughts. I attribute value to neither of them.
+In this space, you will discover a blend of my work and personal reflections.
+Each piece shows my thoughts and experiences. I do not see them as having special value;
+instead, they are a record of my journey.
 
->
-*"Life is a line, not just a segment."*
+> "veritas-vincit."
