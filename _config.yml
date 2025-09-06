@@ -170,7 +170,6 @@ kramdown:
 include: ["_pages"]
 exclude:
   - _original_templates/
-  - _scripts/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
