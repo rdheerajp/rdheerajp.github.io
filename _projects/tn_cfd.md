@@ -8,6 +8,6 @@ category: work
 related_publications: true
 ---
 
-Details to be filled.
+Still under construction. Thank you.
 
 Paper: {% cite peddinti2024quantum %}

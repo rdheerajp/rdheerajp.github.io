@@ -33,7 +33,6 @@ I am an engineer-turned-researcher, working in the intersection of mathematics, 
 My primary focus is on developing quantum-inspired algorithms.
 
 In this space, you will discover a blend of my work and personal reflections.
-Each piece shows my thoughts and experiences. I do not see them as having special value;
-instead, they are a record of my journey.
+I am excited to share my thoughts, although I attribute them with no intrinsic value.
 
 > "veritas-vincit."

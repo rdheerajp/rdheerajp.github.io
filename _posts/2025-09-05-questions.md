@@ -24,13 +24,13 @@ I take a brisk walk through the years to set the context.
 - 2024: Finally, started working on this page.
 - 2025: I guess this counts as a successful attempt.
 
-## FAQs
+## QnA
 
 To put this out, I had to argue with the voices in my head. I answer them for myself, but also for others who partake in this madness.
 
 #### Q. tilted? why?
 
-The blog is titled 'tilted'. Truth be told, it started with a typo. Now, I have a lot of justifications for this happy accident.
+The blog is titled 'tilted'. Truth be told, it started with a typo. Now, I have a couple of justifications for this happy accident.
 
 First, the intention of this space is to share my perspective. The objective is to give room for subjectivity and bias, while maintaining openness and transparency. So, 'tilted' refers to my colored view of the world. It serves as a neat little heads up and cautions the reader to be aware of the inclinations.[^1]
 
@@ -40,6 +40,19 @@ Second, I play and watch a lot of chess. There, the term 'being on a tilt' refer
 
 ... are the thief of joy. Nonetheless, here's a non-exhaustive list of things I might do:
 
-    1. Write. I shall write apologetically and unapologetically.
+1. Write.
+   I want to get back into writing for leisure. Essays, poems and opinions. Anything I scratches my itch will eventually find its place among the bottomless pit that is the internet.
+2. Laze around.
+   I know that I stay idle. I plan on continuining to do so. There is no regular programming or we'll be right back.
+
+#### Q. worth it?
+
+Figuring out the nitty-gritty of Docker containers, jekyll, Markdown, JS, and GitHub actions was fun.
+
+#### Q. 2023?
+
+Glad you asked. I ran out of excuses and had to watch the keyboard collect dust.
+
+## Footnotes
 
 [^1]: tilted &harr; inclined; inclinations &harr; proclivity, disposition.
