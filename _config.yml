@@ -10,7 +10,7 @@ email: rdheerajp.seek@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   welcome to my corner of the interwebs.
 footer_text: >
-  
+
 keywords: raghavendra dheeraj peddinti, tensor networks, applied math, philosophy # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🛸 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

@@ -27,7 +27,7 @@ latest_posts:
 
 **Hello!**
 
-Call me Raghavendra Dheeraj, or call me curious! 
+Call me Raghavendra Dheeraj, or call me curious!
 
 I am an engineer-turned-researcher, working in the intersection of mathematics, physics, and computer science.
 My primary focus is on developing quantum-inspired algorithms.

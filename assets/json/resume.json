@@ -69,7 +69,7 @@
       "startDate": "2021-09-17",
       "endDate": "2025-02-19",
       "score": "4.94/6.0",
-      "courses": ["Numerical Methods","Quantum Information Processing", "Computational Physics", "Machine Learning"]
+      "courses": ["Numerical Methods", "Quantum Information Processing", "Computational Physics", "Machine Learning"]
     },
     {
       "institution": "IIT Bhubaneswar",
@@ -80,7 +80,7 @@
       "startDate": "2017-07-15",
       "endDate": "2021-05-05",
       "score": "9.0/10",
-      "courses": ["Mathematics","Partial Differential Equations","Thermodynamics","Fluid Mechanics"]
+      "courses": ["Mathematics", "Partial Differential Equations", "Thermodynamics", "Fluid Mechanics"]
     }
   ],
   "volunteer": [
@@ -117,21 +117,13 @@
       "name": "Programming",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Scientific Computing/HPC",
-        "Quantum Computing: Qiskit/Qibo",
-        "Python/C++/Julia"
-      ]
+      "keywords": ["Scientific Computing/HPC", "Quantum Computing: Qiskit/Qibo", "Python/C++/Julia"]
     },
     {
       "name": "Miscellaneous",
       "level": "",
       "icon": "fa-solid fa-palette",
-      "keywords": [
-        "Graphic Design",
-        "Illustrator/Photoshop",
-        "LaTeX"
-      ]
+      "keywords": ["Graphic Design", "Illustrator/Photoshop", "LaTeX"]
     }
   ],
   "languages": [
@@ -155,26 +147,17 @@
     {
       "name": "Sports",
       "icon": "fa-solid fa-futbol",
-      "keywords": [
-        "Basketball: Spurs",
-        "Football: Spurs"
-      ]
+      "keywords": ["Basketball: Spurs", "Football: Spurs"]
     },
     {
       "name": "Music",
       "icon": "fa-solid fa-music",
-      "keywords": [
-        "Indian Classical",
-        "Hip-hop"
-      ]
+      "keywords": ["Indian Classical", "Hip-hop"]
     },
     {
       "name": "Philosophy",
       "icon": "fa-solid fa-cubes-stacked",
-      "keywords": [
-        "Absurdism",
-        "Vedic Philosophy"
-      ]
+      "keywords": ["Absurdism", "Vedic Philosophy"]
     }
   ]
 }
