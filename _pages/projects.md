@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: informal and structured explanations of completed works.
+description: informal but structured explanations of completed works.
 nav: false
 nav_order: 3
 display_categories: [work, fun]

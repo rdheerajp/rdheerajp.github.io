@@ -25,16 +25,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-### Hello! | Namaste! | Gruezi! | Salaam!
+### Hello!
 
-I am Raghavendra Dheeraj, and I struggle with introductions.
+Call me Raghavendra Dheeraj or call me curious! 
 
-I am a researcher studying the fields of computational science. 
+I am a engineer-turned-researcher, working in the intersection of mathematics, physics, and computer science. My primary work involves developing quantum-inspired algorithms.
 
-More than an academic website, this is my personal page where I will be sharing not only my work but also some of my thoughts. 
+Here, you will find a blend of my work and my thoughts. I attribute value to neither of them.
 
-
-
-
-
-<p>Life is a line, not a line segment.</p>
+>
+*"Life is a line, not just a segment."*
